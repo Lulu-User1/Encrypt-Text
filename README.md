@@ -1,3 +1,4 @@
+# ⚠This Was Made With AI (I Did it has a Fun Project)⚠
 # Encrypt-Text
 ## Encrypt and Decrypt Text, Stop worrying about FBI knowing what you type why not hide it. (Open Source)
 
